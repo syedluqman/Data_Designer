@@ -1,2 +1,3 @@
-# Data_Designer
-Simple snippets of code that I use in daily routines
+# A simple snipple of code to do the small tasks. 
+The below is to use .diff() function in python to calculate the repeat contacts. 
+
